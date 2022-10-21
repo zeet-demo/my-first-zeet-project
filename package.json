@@ -1,5 +1,5 @@
 {
-  "name": "dockit-demo",
+  "name": "node-demo",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -7,12 +7,12 @@
   },
   "dependencies": {
     "cookie-parser": "~1.4.6",
-    "debug": "~2.6.9",
-    "express": "~4.18.1",
+    "debug": "~4.3.4",
+    "express": "~4.18.2",
     "express-prometheus-middleware": "^1.2.0",
-    "http-errors": "~1.8.1",
+    "http-errors": "~2.0.0",
     "morgan": "~1.10.0",
-    "prom-client": "^12.0.0",
-    "pug": "2.0.4"
+    "prom-client": "^14.1.0",
+    "pug": "3.0.2"
   }
 }
